@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">styles-themes-android</string>
+    <string name="text_grandfather">Text Grandfather</string>
+    <string name="text_father">Text Father</string>
+    <string name="text_son">Text Son</string>
+</resources>
